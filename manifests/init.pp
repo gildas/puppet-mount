@@ -35,7 +35,6 @@
 #
 # Copyright 2014 Your name here, unless otherwise noted.
 #
-class mount {
-
-
+class mount
+{
 }
