@@ -29,7 +29,7 @@
 #
 # === Authors
 #
-# Author Name <author@domain.com>
+# Author Gildas CHERRUEL <gildas.cherruel@gmail.com>
 #
 # === Copyright
 #
